@@ -4,7 +4,7 @@ body{
   margin:25px;
 }
 h1{
-    color:darkblue;
+    color:rgb(56, 78, 117);
     text-align:center;
 }
 img{
@@ -16,7 +16,7 @@ input,textarea{
     padding:8px;
     margin-top:5px;
 }
-.about{
+.about-section{
     display:flex;
     align-items:center;
     gap:20px;
@@ -30,7 +30,7 @@ input,textarea{
 .skills{
     display:grid;
     grid-template-columns:repeat(2,1fr);
-    gap:10px;
+    gap: 10px;
 }
 .education{
     display:grid;
@@ -43,7 +43,7 @@ h2{
 form{
     display:flex;
     flex-direction:column;
-    width:300px;
+    width:300px
 }
 input,
 textarea{
