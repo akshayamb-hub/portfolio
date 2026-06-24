@@ -11,7 +11,14 @@ First-year B.Tech CSE(AI&ML) student.
 -HTML
 -Python Basics
 -GitHub
--Problem Solving
+-Problem Solving  
+
+## Features
+-About Me Section
+-Skills Section
+-Education Section
+-Contact Form
+-Responsive Design using Flexbox, CSS Grid and Media Queries
 
 ## Project Files
 -index.html
