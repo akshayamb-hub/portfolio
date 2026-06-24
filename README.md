@@ -16,6 +16,7 @@ First-year B.Tech CSE(AI&ML) student.
 ## Project Files
 -index.html
 -profile.jpeg
+-style.css
 
 ## Author
 Akshaya MB
